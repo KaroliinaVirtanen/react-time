@@ -1,3 +1,6 @@
+# Preview
+![snippet-react-time](https://user-images.githubusercontent.com/72195274/220094092-dbe6e44c-f017-4581-9edc-9ee747dcac0b.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
